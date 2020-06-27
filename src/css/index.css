@@ -1,0 +1,10 @@
+body {
+  background-color: #ffd;
+}
+
+#btn {
+  width: 100px;
+  height: 100px;
+  display: block;
+  background-color: skyblue;
+}
